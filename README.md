@@ -70,4 +70,10 @@ The goal? Build systems that are **fast, smart, and autonomous**.
 
 ---
 
+## ⚠️ Disclaimer
+
+All projects here are **MIT licensed** and provided **as-is** with no guarantees. Trading-related repos are for **educational purposes only** — not financial advice. Use at your own risk.
+
+---
+
 *"The matrix is a system, Neo. That system is our enemy."* — But I'm building my own exit.

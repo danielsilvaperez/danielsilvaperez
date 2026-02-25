@@ -1,80 +1,135 @@
-# 👋 Hey, I'm Danny
+<div align="center">
 
-**25 | Builder | Trying to make it out the matrix**
+# 👋 YEO, I'M DANNY
 
-Currently grinding a non-tech job while building my escape hatch in public. I believe the best way to predict the future is to code it.
+**25 | Builder | Breaking out the matrix one commit at a time**
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=I+build+what+I+want;Rust+%7C+TypeScript+%7C+Python+%7C+Swift;Algorithmic+Trading+%7C+AI+Agents+%7C+Edge+Compute;btw+i+use+arch)](https://git.io/typing-svg)
 
-## 🛠️ The Stack
-
-**Languages I Speak:**
-- 🦀 **Rust** — Systems, performance, trading engines
-- ☕️ **Java** - Enterprise, reliability, critical systems
-- ⚡ **TypeScript** — Full-stack, trading bots, AI agents
-- 🐍 **Python** — ML pipelines, data, automation
-- 📱 **Swift** — iOS when I need to touch grass (but make it code)
-
-**The Lab:**
-- 🖥️ **Arch Linux** — Main battle station (btw, I use arch)
-- 🍎 **MacBook Pro** — For when things need to "just work"
-- 🧠 **Jetson Nano Orin Super** — Edge AI, local inference
-- 🥧 **Raspberry Pi cluster** — Because one computer is never enough
+</div>
 
 ---
 
-## 🔥 What I'm Building
+<div align="center">
 
-### 🤖 AI Agents & Automation
-Smart systems that actually do things:
-- **Agent Orcha** — AI agent orchestration
-- **The Council** — Multi-agent decision making
-- **Job Search Automations** — Automating the escape plan itself (meta, I know)
+## 🛠️ THE ARSENAL
 
-### 📈 Algorithmic Trading
-Production-grade trading infrastructure:
-- **Trading Core** — Kalshi BTC volatility bot with ML pipeline (LightGBM + PatchTST Transformers), full risk management, 90% test coverage
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 THE BUILDS
+
+</div>
+
+### 📈 Trading Infrastructure
+> Production-grade algo trading that doesn't mess around
+
+<p>
+<a href="https://github.com/danielsilvaperez/trading-core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=trading-core&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/danielsilvaperez/kqmlp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=kqmlp&theme=tokyonight&hide_border=true" />
+</a>
+</p>
+
+- **Trading Core** — Kalshi BTC volatility bot with ML pipeline (LightGBM + PatchTST Transformers)
 - **KQMLP** — Real-time control plane for ML inference visualization
 - **Whale Copy** — Following the smart money (Rust + TypeScript)
 
-### 🌱 Impact Projects
-Tech that actually helps people:
-- **QuitLab** — Evidence-based addiction recovery app (CBT, MI, urge surfing). Quit the lab, quit the matrix.
+### 🤖 AI Agents
+> Systems that actually do things
+
+- **Agent Orcha** — AI agent orchestration
+- **The Council** — Multi-agent decision making  
+- **Job Search Automations** — Automating the escape plan itself (meta)
+
+### 🌱 Impact
+> Tech that helps people
+
+- **QuitLab** — Addiction recovery with CBT, MI, urge surfing. Quit the lab, quit the matrix.
 
 ---
 
-## 🧠 The Philosophy
+<div align="center">
 
-> **"Hardware + Software + AI = The Future"**
-
-I'm obsessed with the intersection of:
-- ⚡ Low-level systems programming
-- 🤖 Machine Learning & AI agents  
-- 🔧 Hardware hacking (ARM edge devices, custom clusters)
-
-The goal? Build systems that are **fast, smart, and autonomous**.
-
----
-
-## 📊 GitHub Stats
+## 📊 THE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsilvaperez&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsilvaperez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielsilvaperez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvaperez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" />
+</p>
 
-## 🌐 Let's Connect
-
-- 💼 [Portfolio](https://danielsilvaperez.github.io)
-- 💬 Always down to talk trading bots, AI agents, or why Arch is superior
-
----
-
-## ⚠️ Disclaimer
-
-All projects here are **MIT licensed** and provided **as-is** with no guarantees. Trading-related repos are for **educational purposes only** — not financial advice. Use at your own risk.
+</div>
 
 ---
 
-*"The matrix is a system, Neo. That system is our enemy."* — But I'm building my own exit.
+<div align="center">
+
+## 🧠 THE PHILOSOPHY
+
+```
+Hardware + Software + AI = The Future
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Low--Level%20Systems-00D4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-Machine%20Learning-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔧-Hardware%20Hacking-76B900?style=flat-square" />
+</p>
+
+**Building systems that are fast, smart, and autonomous.**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 LET'S CONNECT
+
+<p align="center">
+  <a href="https://danielsilvaperez.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+💬 Always down to talk trading bots, AI agents, or why Arch is superior
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer&text=The%20matrix%20is%20a%20system...&fontSize=20&fontColor=fff&animation=twinkling" />
+
+</div>
+
+---
+
+<p align="center">
+  <sub>⚠️ <b>Disclaimer:</b> MIT licensed. Educational purposes only. Not financial advice. Use at your own risk.</sub>
+</p>

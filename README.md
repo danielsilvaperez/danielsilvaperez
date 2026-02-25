@@ -42,13 +42,16 @@
 ### 📈 Trading Infrastructure
 > Production-grade algo trading that doesn't mess around
 
-<p>
-<a href="https://github.com/danielsilvaperez/trading-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=trading-core&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/danielsilvaperez/kqmlp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=kqmlp&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/danielsilvaperez/trading-core">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=trading-core&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/danielsilvaperez/kqmlp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=kqmlp&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
 - **Trading Core** — Kalshi BTC volatility bot with ML pipeline (LightGBM + PatchTST Transformers)
@@ -75,11 +78,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielsilvaperez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielsilvaperez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvaperez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvaperez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danielsilvaperez&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 </div>

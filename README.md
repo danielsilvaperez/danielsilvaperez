@@ -2,7 +2,7 @@
 
 **25 | Builder | Trying to make it out the matrix**
 
-Currently grinding at Amazon while building my escape hatch in public. I believe the best way to predict the future is to code it.
+Currently grinding a non-tech job while building my escape hatch in public. I believe the best way to predict the future is to code it.
 
 ---
 
@@ -10,6 +10,7 @@ Currently grinding at Amazon while building my escape hatch in public. I believe
 
 **Languages I Speak:**
 - 🦀 **Rust** — Systems, performance, trading engines
+- ☕️ **Java** - Enterprise, reliability, critical systems
 - ⚡ **TypeScript** — Full-stack, trading bots, AI agents
 - 🐍 **Python** — ML pipelines, data, automation
 - 📱 **Swift** — iOS when I need to touch grass (but make it code)

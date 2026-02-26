@@ -42,18 +42,6 @@
 ### 📈 Trading Infrastructure
 > Production-grade algo trading that doesn't mess around
 
-<p align="center">
-  <a href="https://github.com/danielsilvaperez/trading-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=trading-core&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/danielsilvaperez/kqmlp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielsilvaperez&repo=kqmlp&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
 - **Trading Core** — Kalshi BTC volatility bot with ML pipeline (LightGBM + PatchTST Transformers)
 - **KQMLP** — Real-time control plane for ML inference visualization
 - **Whale Copy** — Following the smart money (Rust + TypeScript)

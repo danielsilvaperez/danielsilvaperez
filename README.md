@@ -51,7 +51,7 @@
 
 - **Agent Orcha** — AI agent orchestration
 - **The Council** — Multi-agent decision making  
-- **Job Search Automations** — Automating the escape plan itself (meta)
+- **Job Search Automations** — Automating the escape plan itself (meta I know)
 
 ### 🌱 Impact
 > Tech that helps people

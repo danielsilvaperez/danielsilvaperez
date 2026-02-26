@@ -74,23 +74,6 @@
 
 <div align="center">
 
-## 📊 THE METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsilvaperez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvaperez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danielsilvaperez&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🧠 THE PHILOSOPHY
 
 ```

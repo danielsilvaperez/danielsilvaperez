@@ -16,7 +16,7 @@
 
 **Targeting:** AI/ML · Backend/Systems · Full-Stack · AI Agent Development
 
-📬 Reach me: **[danielsilvaperez.github.io](https://danielsilvaperez.github.io)**
+📬 Reach me: **[danielsp-recruiter-inquiries@outlook.com](mailto:danielsp-recruiter-inquiries@outlook.com)**
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # hey, i'm Danny 👋
 
-**CS student · 4+ years self-taught · building AI systems and trading infrastructure**
+**CS junior student · 4+ years self-taught · building AI systems and trading infrastructure**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI+Agents+%7C+Trading+Infrastructure+%7C+Edge+AI;Rust+%7C+TypeScript+%7C+Python+%7C+Swift;Autonomous+Systems+%7C+ML+Pipelines+%7C+Full-Stack;btw+i+use+arch)](https://git.io/typing-svg)
 
